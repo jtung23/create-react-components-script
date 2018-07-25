@@ -1,0 +1,22 @@
+{
+  "name": "create-react-components-script",
+  "version": "1.0.0",
+  "description": "A node script to easily create both Functional and Class React components.",
+  "main": "create-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtung23/create-react-components-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtung23/create-react-components-script/issues"
+  },
+  "homepage": "https://github.com/jtung23/create-react-components-script#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
