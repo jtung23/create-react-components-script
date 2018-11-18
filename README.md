@@ -36,12 +36,13 @@ project
 
 1. Clone this project and cd into it
 
-`git clone git@github.com:jtung23/create-react-components-script.git
+`git clone git@github.com:jtung23/create-react-components-script.git`
 
-cd create-react-components-script
-`
+`cd create-react-components-script`
+
 2. Run
-    `node create-react.js`
+`node create-react.js`
+
 3. With Ubuntu 16.04+ to set up executable (this works for my computer)
     * Move `react-component` (not the .js file) to /usr/bin/
         * (example) `sudo mv react-component /usr/bin/`
