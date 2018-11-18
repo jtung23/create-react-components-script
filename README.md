@@ -40,15 +40,14 @@ project
 
 `cd create-react-components-script`
 
-2. Run
-`node create-react.js`
-
-3. With Ubuntu 16.04+ to set up executable (this works for my computer)
+2. With Ubuntu 16.04+ to set up executable (this works for my computer)
     * Move `react-component` (not the .js file) to /usr/bin/
         * (example) `sudo mv react-component /usr/bin/`
+        * Mac: `/usr/local/bin`
     * Restart terminal and test with command, `react-component`
     * Will prompt for class/function component and name
 
-4. To set up executable for other systems
+3. To set up executable for other systems
+    * [pkg](https://www.npmjs.com/package/pkg)
     * `npm install -g pkg`
         * This package allows you to create the exectuable file for linux, macos, and windows
