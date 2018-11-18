@@ -45,7 +45,7 @@ project
 `
 3. With Ubuntu 16.04 to set up executable (this works for my computer)
     * Move `create-react` (not the .js file) to /usr/bin/
-        * (example) `sudo mv create-react /usr/bin/`
+        * (example) `sudo mv react-component /usr/bin/`
     * Restart terminal and test with command in #2 except remove "node" and ".js"
 
 4. To set up executable for other systems
